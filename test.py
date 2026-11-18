@@ -1,1 +1,0 @@
-print("Software Testing Practice 5")
